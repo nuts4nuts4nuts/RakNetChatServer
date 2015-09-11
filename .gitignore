@@ -27,6 +27,7 @@
 *.out
 *.app
 
-*.sdf
+*.*sdf
 *.un~
 ChatServerLame/Debug/
+*.swp
